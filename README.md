@@ -102,8 +102,9 @@ This project is licensed under the [MIT License](https://github.com/GirijaShanka
 
 ## 🙏 Acknowledgments
 
-Special thanks to [**Digi Suraksha**](https://www.linkedin.com/company/digisuraksha-parhari-foundation) for offering this internship opportunity and to all the mentors and contributors who supported this immersive learning journey.
+Special thanks to [**Digisuraksha Parhari Foundation**](https://www.linkedin.com/company/digisuraksha-parhari-foundation) for offering this internship opportunity and to all the mentors and contributors who supported this immersive learning journey.
 
 ---
+
 
 
