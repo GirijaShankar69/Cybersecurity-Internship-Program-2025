@@ -25,9 +25,10 @@ This internship is designed to provide **hands-on experience** across critical d
 
 **Team member 1: Girija Shankar Sahoo**
 **Intern ID: 444**
-[**Team member 2: Omkar Pawar**](https://github.com/omkarpawar45/)
-**Intern ID: 239**
 
+**Team member 2: Omkar Pawar**
+**Intern ID: 239**
+[Omkar Github](https://github.com/omkarpawar45/)
 
 ---
 
@@ -105,6 +106,7 @@ This project is licensed under the [MIT License](https://github.com/GirijaShanka
 Special thanks to [**Digisuraksha Parhari Foundation**](https://www.linkedin.com/company/digisuraksha-parhari-foundation) for offering this internship opportunity and to all the mentors and contributors who supported this immersive learning journey.
 
 ---
+
 
 
 
