@@ -14,19 +14,19 @@ This internship is designed to provide **hands-on experience** across critical d
 
 ---
 
-Final Project Topic:
+## Final Project Topic:
 
 [Social Engineering and Phising Detection prototype using AI](https://github.com/GirijaShankar69/Cybersecurity-Internship-Program-2025/tree/4fca53291a6b7cebbebb2a319c975d0274b17f67/Projects/AI%20in%20social%20engineering%20and%20phishing%20campaigns)
 
 ---
 
-Team name: Cyber Hitmanz
-Which Stands for: Social Engineering and Phising Detection prototype using AI
+#### Team name: Cyber Hitmanz
+##### Which Stands for: Social Engineering and Phising Detection prototype using AI
 
-Team member 1: Girija Shankar Sahoo
-Intern ID: 444
-Team member 2: Omkar Pawar
-Intern ID: 239
+**Team member 1: Girija Shankar Sahoo**
+**Intern ID: 444**
+**Team member 2: Omkar Pawar**
+**Intern ID: 239**
 
 
 ---
@@ -102,3 +102,4 @@ This project is licensed under the [MIT License](https://github.com/GirijaShanka
 Special thanks to [**Digi Suraksha**](https://www.linkedin.com/company/digisuraksha-parhari-foundation) for offering this internship opportunity and to all the mentors and contributors who supported this immersive learning journey.
 
 ---
+
