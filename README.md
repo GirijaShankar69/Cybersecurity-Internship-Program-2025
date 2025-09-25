@@ -31,6 +31,9 @@ This internship is designed to provide **hands-on experience** across critical d
 
 ---
 
+
+
+
 ## 📅 Weekly Breakdown
 
 ### ✅ Week 1 - MITRE TTP Mapping
@@ -102,4 +105,5 @@ This project is licensed under the [MIT License](https://github.com/GirijaShanka
 Special thanks to [**Digi Suraksha**](https://www.linkedin.com/company/digisuraksha-parhari-foundation) for offering this internship opportunity and to all the mentors and contributors who supported this immersive learning journey.
 
 ---
+
 
